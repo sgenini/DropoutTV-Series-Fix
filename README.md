@@ -14,6 +14,8 @@ I don't anticipate needing to update this, but if for whatever reason issues ari
 Now, upon visiting dropout.tv, the 'Series' link in the navigation will no longer open up in a new tab. 
 Easy peasy, lemon squeezy.
 
+I've also submitted this extension to the Chrome App Store, so once/if it gets approved, you'll be able to just one-click install it for better ease of use, but it might take a while before then.
+
 Enjoy!
 
 Spring break, I believe in you.
